@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**AuraMonster67/AuraMonster67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+➡️ Entre em contato comigo pelo [ pedro.coelho.silva19@escola.pr.gov.br ]
 
-Here are some ideas to get you started:
+Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 gosto de jogos eletrônicos
+- 📝 gosto de desenhar.
+- 🧑‍🎓 sou estudante.
+- 🖥️ estou aprendendo a programar.
+- 🗾 gosto de animes.
+
+https://media.tenor.com/wBzXX1bly3sAAAAM/subaru-natsuki-subaru.gif
