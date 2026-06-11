@@ -10,4 +10,4 @@ Sobre mim:
 - 🖥️ estou aprendendo a programar.
 - 🗾 gosto de animes.
 
-https://media.tenor.com/wBzXX1bly3sAAAAM/subaru-natsuki-subaru.gif
+https://tenor.com/pt-BR/view/subaru-natsuki-subaru-subaru-re-zero-natsuki-subaru-re-zero-gif-13843176159109827451
